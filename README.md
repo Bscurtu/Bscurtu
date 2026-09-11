@@ -1,11 +1,20 @@
 # Hi there, I'm Bogdan! 👋
 
-🪐 About Me
-A logical thinker and tech enthusiast balancing computer engineering, networking, and low-level software systems.
+**Logical thinker | Systems & Low-Level Enthusiast**
 
-🔭 I’m currently working on: Terminal-based logic tools, CLI applications, and writing custom programs in C to deepen my understanding of systems architecture.
-👯 I’m looking to collaborate on: Open-source projects related to network automation, Linux systems, and low-level algorithms.
-🤝 I’m looking for help with: Mastering advanced memory management, pointers, and low-level architecture in C.
-🌱 I’m currently learning: Data Structures & Algorithms at UNIR, conquering the 42 Málaga curriculum, and taking my first steps as a C++ apprentice.
-💬 Ask me about: IT Support, Network configuration, C programming, and Linux environments.
-⚡ Fun fact: I spent 5 years managing a high-volume family coffee shop, so I can handle kernel panics, unexpected segfaults, and intense pressure without dropping my espresso.
+Welcome to my GitHub! I'm a tech enthusiast balancing computer engineering, networking, and the gritty details of low-level software systems. I thrive in the terminal and love understanding how things work under the hood.
+
+---
+
+### 🚀 What I'm up to
+
+- 🔭 **Currently working on:** CLI applications, terminal-based logic tools, and writing custom programs in C to deepen my understanding of systems architecture.
+- 🌱 **Currently learning:** Advanced Data Structures & Algorithms, exploring modern OS concepts, and taking my first steps as a C++ apprentice.
+- 🤝 **Looking to collaborate on:** Open-source projects related to network automation, Linux environments, and low-level algorithms.
+- 💬 **Ask me about:** C programming, IT Support, Network configuration, and how to track down memory leaks.
+
+### ⚡ Fun Fact
+
+I spent 5 years managing a family coffee shop. I can handle kernel panics, unexpected `segfaults`, and intense pressure without dropping my espresso. ☕
+
+---
